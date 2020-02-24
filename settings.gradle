@@ -1,0 +1,3 @@
+rootProject.name='downloadmanager-flow'
+include ':sample'
+include ':downloadmanager-flow'
